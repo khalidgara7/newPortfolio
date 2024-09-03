@@ -1,0 +1,43 @@
+[{
+        "title": "Car Rental",
+        "image": "./projectImages/logo_eco.png",
+        "description": "my car rental website is a web application developed using different technologies including Node.js for backend React for frontend Express.js for route management Bootstrap for layout and MongoDB as a database. This application allows users to book rental cars online.The application includes several features such as searching for available cars by date car type or location viewing car information including model",
+        "technologies": "react | node | exprss | mongoDB | Bootstrap",
+        "github": "https://github.com/khalidgara7",
+        "deployed": "",
+        "bgcolor": "#f37737",
+        "id": "1"
+    },
+    {
+        "title": "Weather",
+        "image": "./projectImages/weather.png",
+        "technologies": "jQuery | HTML | CSS",
+        "description": " This dashboard uses the OpenWeatherMap API to retrieve detailed weather data, including the city name, date, weather icon, temperature, humidity, and wind speed. The dashboard has a 5-day forecast feature and a search history feature that saves past searches for easy access. It also has a dark/light theme that changes the look of the page based on day or night in the searched location and uses the geolocation API to automatically determine the user's current location and display the weather.",
+        "github": "https://github.com/saghro",
+        "deployed": "",
+        "bgcolor": "#29cbe0",
+        "id": "2"
+    },
+    {
+        "title": "Socail Network",
+        "image": "https://www.pagepersonnel.fr/sites/pagepersonnel.fr/files/legacy/shutterstock_767934082_970x480.jpg",
+        "technologies": "JS | Node | Bootstrap | OOP | TTD",
+        "description": "The website I make with Node React Express Bootstrap and MongoDB is a social network With this platform users will be able to register connect and interact with other users Your app will allow users to create a profile with personal information such as their name their profile picture their city their country and their biography Users will also be able to post messages photos and videos to share with their network and comments will be allowed.Users will be able to follow other users to be informed of their publications and will also have access to a news feed grouping the publications of all the users to whom they are subscribed ",
+        "github": "https://github.com/saghro/site-eco",
+        "deployed": "https://drive.google.com/file/d/1_atUXTM-L9r4NccsrPaaWqPyNu37ftwH/view",
+        "bgcolor": "#6c4bf4",
+        "id": "3"
+    },
+    {
+        "title": "KANAP",
+        "image": "https://mks-meble.pl/42859-large_default/zestaw-kanap-w-skandynawskim-stylu-32-z-mozliwoscia-wyboru-tkaniny-mia-monolith-25091.jpg",
+        "technologies": "JS | HTML | CSS",
+        "description": "An ecommerce website for Kanap involves creating an online platform to sell cannabis - related products like seeds and vaporizer accessories ",
+        "github": "https://github.com/saghro/site-eco",
+        "deployed": "",
+        "bgcolor": "#f85781",
+        "id": "4"
+    }
+
+
+]
